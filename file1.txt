@@ -1,1 +1,2 @@
 this is file1 in firstproject folder
+this is the new line of this file1
